@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "inquirer": "^9.1.0"
+  },
+  "name": "team-profile-generator",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^29.0.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronLiuXM/Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronLiuXM/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/AaronLiuXM/Team-Profile-Generator#readme"
+}
