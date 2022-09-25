@@ -20,7 +20,7 @@ const managerCard = (
     </li>
     <li class="list-group-item">
       <span class="font-weight-bold">Office: </span>
-      ${profile.getOffice()}
+      ${profile.getOfficeNumber()}
     </li>
   </ul>
 </div>
