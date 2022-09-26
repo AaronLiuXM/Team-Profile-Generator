@@ -44,4 +44,4 @@ WHEN I decide to finish building my team
 
 THEN I exit the application, and the HTML is generated
 
-[walkthrough.webm](./asset/Project10_video.webm)
+[walkthrough.webm](https://github.com/AaronLiuXM/Team-Profile-Generator/blob/main/asset/Project10_video.webm?raw=true)
